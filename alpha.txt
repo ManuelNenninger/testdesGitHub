@@ -5,3 +5,4 @@ Ja Ja Ja
 Änderung am 26. Mai
 Änderung am Morgen
 Zweite Änderung am Morgen
+Anpassung in Git
